@@ -12,7 +12,7 @@
 		"unit-testing",
 		"test-driven-dev"
 	],
-	"language": "node",
+	"language": "es",
 	"difficulty": "easy",
 	"preview": "https://github.com/breatheco-de/exercise-unit-test-with-jest/blob/main/.learn/assets/preview.jpeg?raw=true",
 	"duration": 16,
